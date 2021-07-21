@@ -1,2 +1,2 @@
 # project-casser
-Repo simple project casser mini market using python 3
+Repo simple project cashier mini market using python 3
